@@ -1,4 +1,4 @@
-# Feature-Toggle_Project
+# Setup Dev / Staging Environment for Feature Toggles Service
 Description
 
 Context:
